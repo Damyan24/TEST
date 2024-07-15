@@ -48,8 +48,7 @@ function takeOutTrash(){
             }
             else{
                 reject("You DIDN'T take out the trash");
-            }
-
+            
         }, 500);
     });
 }
